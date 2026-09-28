@@ -1,0 +1,48 @@
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "standard", "turn": 0}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "standard", "turn": 1}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "standard", "turn": 2}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "standard", "turn": 3}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "standard", "turn": 4}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "standard", "turn": 5}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "standard", "turn": 6}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "standard", "turn": 7}
+{"gold": {"endpoint": "/v2/live"}, "question": {"keys": ["endpoint"], "resource": "service-A"}, "scenario": "standard", "turn": 8}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "standard", "turn": 9}
+{"gold": {"endpoint": "/v2/live"}, "question": {"keys": ["endpoint"], "resource": "service-A"}, "scenario": "standard", "turn": 10}
+{"gold": {"recovery_id": "RcV_0O-lI.7f9Q", "region": "eu-west-3"}, "question": {"keys": ["recovery_id", "region"], "resource": null}, "scenario": "standard", "turn": 11}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "rare", "turn": 0}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "rare", "turn": 1}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "rare", "turn": 2}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "rare", "turn": 3}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "rare", "turn": 4}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "rare", "turn": 5}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "rare", "turn": 6}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "rare", "turn": 7}
+{"gold": {"endpoint": "/v2/live"}, "question": {"keys": ["endpoint"], "resource": "service-A"}, "scenario": "rare", "turn": 8}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "rare", "turn": 9}
+{"gold": {"endpoint": "/v2/live"}, "question": {"keys": ["endpoint"], "resource": "service-A"}, "scenario": "rare", "turn": 10}
+{"gold": {"audit_code": "AUD-739_X", "recovery_id": "RcV_0O-lI.7f9Q", "region": "eu-west-3"}, "question": {"keys": ["recovery_id", "region", "audit_code"], "resource": null}, "scenario": "rare", "turn": 11}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "stale", "turn": 0}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "stale", "turn": 1}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "stale", "turn": 2}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "stale", "turn": 3}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "stale", "turn": 4}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "stale", "turn": 5}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "stale", "turn": 6}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "stale", "turn": 7}
+{"gold": {"endpoint": "/v2/live"}, "question": {"keys": ["endpoint"], "resource": "service-A"}, "scenario": "stale", "turn": 8}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "stale", "turn": 9}
+{"gold": {"endpoint": "/v2/live"}, "question": {"keys": ["endpoint"], "resource": "service-A"}, "scenario": "stale", "turn": 10}
+{"gold": {"recovery_id": "RcV_0O-lI.7f9Q", "region": "eu-west-3"}, "question": {"keys": ["recovery_id", "region"], "resource": null}, "scenario": "stale", "turn": 11}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "budget-too-small", "turn": 0}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "budget-too-small", "turn": 1}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "budget-too-small", "turn": 2}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "budget-too-small", "turn": 3}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "budget-too-small", "turn": 4}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "budget-too-small", "turn": 5}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "budget-too-small", "turn": 6}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "budget-too-small", "turn": 7}
+{"gold": {"endpoint": "/v2/live"}, "question": {"keys": ["endpoint"], "resource": "service-A"}, "scenario": "budget-too-small", "turn": 8}
+{"gold": {"status": "ready"}, "question": {"keys": ["status"], "resource": null}, "scenario": "budget-too-small", "turn": 9}
+{"gold": {"endpoint": "/v2/live"}, "question": {"keys": ["endpoint"], "resource": "service-A"}, "scenario": "budget-too-small", "turn": 10}
+{"gold": {"recovery_id": "RcV_0O-lI.7f9Q", "region": "eu-west-3"}, "question": {"keys": ["recovery_id", "region"], "resource": null}, "scenario": "budget-too-small", "turn": 11}

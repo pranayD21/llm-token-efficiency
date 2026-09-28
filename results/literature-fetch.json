@@ -1,0 +1,114 @@
+[
+  {
+    "key": "snell",
+    "url": "https://arxiv.org/abs/2408.03314",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "c38ea95eb2e29a5154f502608d5abea49cfddaf6b74674bb3cd42a5fd6d16086"
+  },
+  {
+    "key": "selfbudgeter",
+    "url": "https://arxiv.org/abs/2505.11274",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "29986ff1202046a62561f07ce5e63740359d6e787d2b210185a0e98b602451f2"
+  },
+  {
+    "key": "estar",
+    "url": "https://arxiv.org/abs/2602.10004",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "4d536ddd81c66913b8f3022ad819227091eab217e2422b2e5d99c351eaad5596"
+  },
+  {
+    "key": "s1",
+    "url": "https://arxiv.org/abs/2501.19393",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "b9cab37b28af10bf6ef523bead995fa0f5e7c690708511b4d52460ad2af0b2cd"
+  },
+  {
+    "key": "chainofdraft",
+    "url": "https://arxiv.org/abs/2502.18600",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "6e1f31bd1ba8d616568dbc5721ad7306fcd8dd221247b0ea2ae099f6324f4538"
+  },
+  {
+    "key": "speculative",
+    "url": "https://arxiv.org/abs/2211.17192",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "56a42c7b4aa2a6588a28019e969d8baeed734a144bc77126bf7f9440f5f2f687"
+  },
+  {
+    "key": "eagle3",
+    "url": "https://arxiv.org/abs/2503.01840",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "ea2a6483c2045f0b0d3e6c9b789193881535a266f78920bd84e0e1f99b6b7fd9"
+  },
+  {
+    "key": "distillsteps",
+    "url": "https://arxiv.org/abs/2305.02301",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "dae19a43e00dec6e1dca969f5c8c4d53bebacd6f19057c9bf454ae475b79c7e4"
+  },
+  {
+    "key": "deepseekr1",
+    "url": "https://arxiv.org/abs/2501.12948",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "6dda5a280d3ea97c487505c8869d23a3831ad661e0be81cf74b862569bc66b84"
+  },
+  {
+    "key": "tokens2words",
+    "url": "https://arxiv.org/abs/2410.05864",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "acdef5c194c26e91b15709a2beb73c596edf725bbbea301de78c48c20eeeea9d"
+  },
+  {
+    "key": "pagedattention",
+    "url": "https://arxiv.org/abs/2309.06180",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "de9353854db4e16af0c63f73502f7e463f03bdc4f3c98f3fcd377fe1c625ed08"
+  },
+  {
+    "key": "sarathi",
+    "url": "https://arxiv.org/abs/2403.02310",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "dbe01f1de4c4848f19e3376875025c745262e7aecf17cb7faa6a7610c903e948"
+  },
+  {
+    "key": "agentprune",
+    "url": "https://arxiv.org/abs/2410.02506",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "28ef23faae68f55ad31f8cdb4e5fa1ab96f88ac4fabdab07db88cb557f03e200"
+  },
+  {
+    "key": "coordination",
+    "url": "https://arxiv.org/abs/2608.16801",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "3c7abf1a50a12dd46e561bc324ffb153d4090165d6243e33adbdbd90877b5fc5"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "primary_works": 39,
+  "required_nonempty_files": 15,
+  "router_request_ledgers_reconciled": 20160,
+  "router_policy_summaries": 84,
+  "context_request_ledgers_reconciled": 2064,
+  "context_trajectory_summaries": 172,
+  "local_markdown_links": "passed",
+  "sources_directory_entries": 0
+}

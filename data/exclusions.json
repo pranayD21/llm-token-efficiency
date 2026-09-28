@@ -1,0 +1,16 @@
+[
+  {
+    "candidate": "vCache: Verified Semantic Prompt Caching",
+    "url": "https://openreview.net/forum?id=zF0A0xw3HZ",
+    "decision": "discovery-only; browser challenge, no numerical synthesis"
+  },
+  {
+    "candidate": "informal ACON arXiv:2507.00379",
+    "url": "https://arxiv.org/abs/2507.00379",
+    "decision": "rejected identifier; resolves to vector database study; use 2510.00615 for ACON"
+  },
+  {
+    "candidate": "Crossref LLMLingua title query top results",
+    "decision": "unrelated title matches rejected; exact ACL DOI used"
+  }
+]

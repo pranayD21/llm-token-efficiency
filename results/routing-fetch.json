@@ -1,0 +1,106 @@
+[
+  {
+    "key": "frugalgpt",
+    "url": "https://arxiv.org/abs/2305.05176",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "9ff28dd137f27e3f9c8fef0d05f0945deae5e40bc05f43da3eba9103f610c5e3"
+  },
+  {
+    "key": "routellm",
+    "url": "https://arxiv.org/abs/2406.18665",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "ccfd06bca5e7c0182115144ba8da25fa0d558613ffd22aabe5a0ed3e05e847de"
+  },
+  {
+    "key": "routerbench",
+    "url": "https://arxiv.org/abs/2403.12031",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "5fcab08d8caac3bc417bc12414807fd4109014724092bd9cf912385b394f7997"
+  },
+  {
+    "key": "unified",
+    "url": "https://arxiv.org/abs/2410.10347",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "f20f0eceb460549d6949d7dd817e13e1279e0eae17bf7ede54e8a52331d7fe83"
+  },
+  {
+    "key": "mixllm",
+    "url": "https://arxiv.org/abs/2502.18482",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "9787cac6a1b558c0377807fdde9c51c55e720ba1730fade61460831282c598b3"
+  },
+  {
+    "key": "moa",
+    "url": "https://arxiv.org/abs/2406.04692",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "dd0aa8847739e5e57b817056872a3e53b0285d9171e4594e575e7ce62e890be6"
+  },
+  {
+    "key": "costofpass",
+    "url": "https://arxiv.org/abs/2504.13359",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "cb45dda357ae7c11d885d55e168b805e9c1d075a29720f68118cec0ab57284c0"
+  },
+  {
+    "key": "preble",
+    "url": "https://arxiv.org/abs/2407.00023",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "5908e45fd4dcc1aba42ab297fd921e12ee6634ef545849cbd98db04bd92cc2a7"
+  },
+  {
+    "key": "llmbridge",
+    "url": "https://arxiv.org/abs/2410.11857",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "5460fa9216313ed12e8f45184d7ea9c2a55ff5d8f836ae90513b3317a2f61025"
+  },
+  {
+    "key": "tweakllm",
+    "url": "https://arxiv.org/abs/2507.23674",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "b6cb167174f03b3ae0d1851af4117c393f8ae7b911e31a050f792753872166e1"
+  },
+  {
+    "key": "groundedcache",
+    "url": "https://arxiv.org/abs/2605.27494",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "8405e1f2eba4c9c5dc22ead32f380afe0150bdbfb46e3ac1015c01b4074135cb"
+  },
+  {
+    "key": "cacheroute",
+    "url": "https://arxiv.org/abs/2608.19677",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "a779f2301c0ab768035084adcd089dff0cd03f1de1b2ecb96d79df04bf526c44"
+  },
+  {
+    "key": "yearserving",
+    "url": "https://arxiv.org/abs/2608.13573",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "4a6bdd0a026e1f272bc12272647bf27fb646c334c5757757a633c354fa2140b9"
+  }
+]

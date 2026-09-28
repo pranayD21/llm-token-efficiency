@@ -1,0 +1,22 @@
+test_compaction_invalidates_changed_prefix_not_shared_system (test_context_guard.AccountingTests.test_compaction_invalidates_changed_prefix_not_shared_system) ... ok
+test_lcp_blocks_minimum_ttl_and_no_double_count (test_context_guard.AccountingTests.test_lcp_blocks_minimum_ttl_and_no_double_count) ... ok
+test_rejection_and_estimation_do_not_update_cache (test_context_guard.AccountingTests.test_rejection_and_estimation_do_not_update_cache) ... ok
+test_cache_gate_defers_an_expensive_rewrite (test_context_guard.ControllerTests.test_cache_gate_defers_an_expensive_rewrite) ... ok
+test_dedup_keeps_max_version_and_exact_payload (test_context_guard.ControllerTests.test_dedup_keeps_max_version_and_exact_payload) ... ok
+test_evicted_fact_cannot_return_from_external_history (test_context_guard.ControllerTests.test_evicted_fact_cannot_return_from_external_history) ... ok
+test_gate_cannot_override_hard_budget (test_context_guard.ControllerTests.test_gate_cannot_override_hard_budget) ... ok
+test_protection_overflow_is_explicit (test_context_guard.ControllerTests.test_protection_overflow_is_explicit) ... ok
+test_exact_local_solver_is_unbilled_and_uses_actual_facts (test_context_guard.HarnessTests.test_exact_local_solver_is_unbilled_and_uses_actual_facts) ... ok
+test_full_with_sufficient_budget_answers_all_actual_facts (test_context_guard.HarnessTests.test_full_with_sufficient_budget_answers_all_actual_facts) ... ok
+test_gold_does_not_affect_retention_answers_or_cost (test_context_guard.HarnessTests.test_gold_does_not_affect_retention_answers_or_cost) ... ok
+test_no_success_has_null_cost_per_success_and_no_charges (test_context_guard.HarnessTests.test_no_success_has_null_cost_per_success_and_no_charges) ... ok
+test_rare_unprotected_fact_is_a_real_guard_failure (test_context_guard.HarnessTests.test_rare_unprotected_fact_is_a_real_guard_failure) ... ok
+test_stale_replay_exposes_missing_dedup (test_context_guard.HarnessTests.test_stale_replay_exposes_missing_dedup) ... ok
+test_conflicting_equal_versions_abstain (test_context_guard.ReaderTests.test_conflicting_equal_versions_abstain) ... ok
+test_exact_identifiers_and_missing_facts (test_context_guard.ReaderTests.test_exact_identifiers_and_missing_facts) ... ok
+test_stale_out_of_order_and_resource_isolation (test_context_guard.ReaderTests.test_stale_out_of_order_and_resource_isolation) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 0.117s
+
+OK

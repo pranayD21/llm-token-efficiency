@@ -1,0 +1,25 @@
+{
+  "actual_api_spend_usd": 0,
+  "label": "counterfactual calibration-response serving cost; labels local, no teacher expense",
+  "calibration_examples": 600,
+  "simulated_serving": {
+    "n": 600,
+    "successes": 509,
+    "accuracy": 0.8483333333333334,
+    "cost_usd": 0.04352704,
+    "cost_per_success_usd": 8.551481335952849e-05,
+    "cost_per_request_usd": 7.254506666666667e-05,
+    "model_calls": 600,
+    "fallback_calls": 0,
+    "retry_calls": 0,
+    "verification_calls": 0,
+    "response_hit_rate": 0.0,
+    "input_tokens": 1281600,
+    "output_tokens": 6600,
+    "cached_tokens": 1226752,
+    "cache_write_tokens": 54848,
+    "reasoning_tokens": 0,
+    "simulated_model_latency_ms": 21000,
+    "local_overhead_p50_ms": 1.4850415172986686
+  }
+}

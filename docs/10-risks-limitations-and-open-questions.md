@@ -1,0 +1,19 @@
+# Risks, limitations and open questions
+
+The review is broad and bounded, with 39 included primary works and separately cited official documentation. It is not exhaustive. Search-index coverage, English-language preference, changing pages, paywalls and an OpenReview challenge limit retrieval. Some records have only metadata/abstract verification plus a research-agent full-text report; high-impact findings were independently checked. No paper's experiments were reproduced on its original models/data. Code availability means a link was found, not that the repository installs or reproduces claims.
+
+Numerical findings are source- and version-specific. Judge preference, exact correctness, unsafe-hit rate, throughput, peak tokens and cost-of-pass cannot be pooled as the same outcome. New preprints may revise claims. AgServe and other joint systems invalidate broad novelty claims. Absence from this selected evidence is not evidence of global absence.
+
+Both prototypes use deterministic local engines and hand-designed workloads. Real tokenizer counts do not turn stipulated model outcomes into LLM evidence. The router's amount-419 error is an injected blind spot; its verifier recognizes a stipulated wording shift. Context Guard reads structured fact records and cannot model natural-language distraction or extraction errors. The exact-local references correctly show that these fixture tasks need no LLM at all.
+
+The router's default 0.95 calibration target permits loss relative to a 100% baseline; confidence bounds assume a representative distribution. A strict target can sacrifice savings. The cache gate makes one-request decisions, and can lose over a trajectory. Cache rates, TTLs and write behavior are illustrative; the context and router prototypes intentionally use different configurations. Prefix-cache blocks and expiration boundaries are documented separately. No result estimates actual provider invoice totals, energy, GPU speed, or model latency.
+
+The naive strong-model baseline is supplemented with fixed models receiving equal response-cache access. This matters: attributing all cache benefits to routing exaggerates gains. Cold traffic, response-only cold traffic, prefix affinity, and version invalidation must be separated. Early benchmark bugs in these distinctions were fixed before the final results and recorded in the work log.
+
+The context fixtures have only four independent trajectories. Thousands of policy-request records reuse those fixtures and are not thousands of independent samples. Rare unprotected facts can be lost irreversibly. Protection is an input annotation, not a learned safety guarantee. Once all versions of a resource are evicted there is no permanent version tombstone, so a later stale record may look new. Real deployment needs persistent provenance and retrieval recovery.
+
+Package provenance and hashes were checked, but no exhaustive supply-chain or CVE audit occurred. Native wheels and PDF parsers remain dependencies. Hash-pinned requirements refer to the downloaded platform-specific wheels; a different platform should use the version lock and generate its own reviewed hashes. No private files were uploaded and no secrets were exposed.
+
+No paid credentials or local model inference runtime was configured for experimentation. Real-model evaluation, invoice reconciliation, longitudinal production traces and deployment are future milestones. Those are external prerequisites for production claims, not unfinished local test runs. The next action is to choose a realistic workload and a bounded model budget, then execute the preregistered evaluation in the roadmap.
+
+Final source access check reached all 39 included primary records. Three of 68 cited URLs were blocked to direct curl access, all tooling-help pages previously read through the web tool. Access checks verify availability, not correctness of claims.

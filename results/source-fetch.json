@@ -1,0 +1,146 @@
+[
+  {
+    "key": "llmlingua",
+    "url": "https://aclanthology.org/2023.emnlp-main.825/",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "b197cd8234045b59e3fbaddd01338567c04e545ce1159cb8d6c0e77aec41a409"
+  },
+  {
+    "key": "llmlingua2",
+    "url": "https://aclanthology.org/2024.findings-acl.57/",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "f5cb02d121c39b7912600d6f6873697d68c4119b3af32f2b3a6e65ab57ff05a8"
+  },
+  {
+    "key": "recomp",
+    "url": "https://arxiv.org/abs/2310.04408",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "e26555d62084275efa38a80888748726c6eebb141cb73d62188d6b7f60d960ff"
+  },
+  {
+    "key": "lostmiddle",
+    "url": "https://arxiv.org/abs/2307.03172",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "af63ac4b31d2d47748f3ad62081349ff820ca488c577888c8b0289545915c275"
+  },
+  {
+    "key": "meancache",
+    "url": "https://arxiv.org/abs/2403.02694",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "b9f3d8d199cda58bdeaf445478e778f8c0641356aead112bf9f1ab915b1bb777"
+  },
+  {
+    "key": "lacache",
+    "url": "https://arxiv.org/abs/2608.01718",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "9ab601ce65eafef00790a939856e3763a2c9dbdf498fca2faf402c0a01331de2"
+  },
+  {
+    "key": "onlinecache",
+    "url": "https://arxiv.org/abs/2508.07675",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "830b22d1cc51563ffb609c5b1c08f02cc5c062ba106b28a0478109e848de05c3"
+  },
+  {
+    "key": "acon",
+    "url": "https://arxiv.org/abs/2510.00615",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "969f2eaf705afb545551803c1ae136685da6cfcd81ea79722cbd45900b961cc7"
+  },
+  {
+    "key": "paritok",
+    "url": "https://arxiv.org/abs/2608.24188",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "03a7b1bad20afb34de6501c9bf8387f2ee48f7e5b609e78b600d2a9a7f46bf5f"
+  },
+  {
+    "key": "cacheblend",
+    "url": "https://arxiv.org/abs/2405.16444",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "82e7838b6ef12a24204660955a7d762c412fad0a8b704465120314bd2d7208f8"
+  },
+  {
+    "key": "vcache",
+    "url": "https://openreview.net/forum?id=zF0A0xw3HZ",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "33d7fd0e0da441a63e066a0956ab33c149c1ba09c913d2d9f08588f803dfbdd3"
+  },
+  {
+    "key": "freshcache",
+    "url": "https://arxiv.org/abs/2607.04281",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "4b58de5715ff6ab26ab8d172a0d33e9530ed2683dc6f35257403c2e613b5c90c"
+  },
+  {
+    "key": "openai-pricing",
+    "url": "https://developers.openai.com/api/docs/pricing",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "801c37c202e14fded977bdf6045e88a1756f1b4c51c42e8be01737e0fb558d93"
+  },
+  {
+    "key": "openai-caching",
+    "url": "https://developers.openai.com/api/docs/guides/prompt-caching",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "b698833fe801006dc2caaae785534081f54dd030eaf9234147b78b09c0a5eeba"
+  },
+  {
+    "key": "claude-pricing",
+    "url": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "5cb9824c1ee8965194fafa5bfb71f8c1e827a3876f9c15a617f7176031fe77b6"
+  },
+  {
+    "key": "gemini-pricing",
+    "url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "f49bcbf6486b4da52f5fbf01fa9bb7277d73c8d37f26ee962971ba1b25eb28b7"
+  },
+  {
+    "key": "pypdf-meta",
+    "url": "https://pypi.org/pypi/pypdf/6.0.0/json",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "b87fec2d56b96ea23f451a23432e4c89a888f5d0c96731342bb5d2ed042cfb86"
+  },
+  {
+    "key": "crossref-exact",
+    "url": "https://api.crossref.org/works/10.18653/v1/2024.findings-acl.57",
+    "http_status": "200",
+    "exit_code": 0,
+    "error": "",
+    "sha256": "9ba2716e5870f0744dca28feca69c4130765b44e2c19351dd25c849fb008d697"
+  }
+]

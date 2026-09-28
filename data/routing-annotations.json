@@ -1,0 +1,159 @@
+[
+  {
+    "key": "frugalgpt",
+    "identifier": "2305.05176",
+    "category": "routing",
+    "url": "https://arxiv.org/abs/2305.05176",
+    "method": "Learn cascade order and response-score thresholds",
+    "models_datasets_baselines": "HEADLINES; OVERRULING; CoQA; single models",
+    "reported_improvement": "98.3%, 73.3%, 59.2% cost savings respectively in original Table 3",
+    "limitations": "Historical API prices; scorer calibration; CoQA comparator is GPT-3",
+    "code": "https://github.com/stanford-futuredata/FrugalGPT"
+  },
+  {
+    "key": "routellm",
+    "identifier": "2406.18665",
+    "category": "routing",
+    "url": "https://arxiv.org/abs/2406.18665",
+    "method": "Preference-trained strong/weak model routing",
+    "models_datasets_baselines": "MT-Bench; MMLU; GSM8K; random routing",
+    "reported_improvement": "3.66x cost-saving ratio at 95% GPT-4 MT-Bench quality, revised Table 6",
+    "limitations": "Relative judge quality is not task-success probability",
+    "code": "https://github.com/lm-sys/RouteLLM"
+  },
+  {
+    "key": "routerbench",
+    "identifier": "2403.12031",
+    "category": "routing",
+    "url": "https://arxiv.org/abs/2403.12031",
+    "method": "Precomputed cost/quality router benchmark",
+    "models_datasets_baselines": "405467 samples; 11 models; KNN/MLP/cascades/zero router",
+    "reported_improvement": "Cost-quality frontiers; oracle is not a deployable result",
+    "limitations": "Fixed response tables omit live cache residency and session drift",
+    "code": "https://github.com/withmartian/routerbench"
+  },
+  {
+    "key": "unified",
+    "identifier": "2410.10347",
+    "category": "routing",
+    "url": "https://arxiv.org/abs/2410.10347",
+    "method": "Unify sequential routing and cascading via optimization",
+    "models_datasets_baselines": "RouterBench; SWE-Bench; one-shot routing",
+    "reported_improvement": "87.24% AUC in specified low-noise RouterBench setting",
+    "limitations": "Some estimator signals constructed from noisy ground truth",
+    "code": "https://github.com/eth-sri/cascade-routing"
+  },
+  {
+    "key": "mixllm",
+    "identifier": "2502.18482",
+    "category": "routing",
+    "url": "https://arxiv.org/abs/2502.18482",
+    "method": "Contextual bandit with quality/cost/latency updates",
+    "models_datasets_baselines": "RouterBench plus Llama 3.1; routing baselines",
+    "reported_improvement": "97.25% GPT-4 quality at 24.18% cost",
+    "limitations": "Feedback partly simulated; OOD split is not chronological drift",
+    "code": "not verified; similarly named Microsoft repo is quantization"
+  },
+  {
+    "key": "moa",
+    "identifier": "2406.04692",
+    "category": "multi-agent",
+    "url": "https://arxiv.org/abs/2406.04692",
+    "method": "Layered model proposals and aggregation",
+    "models_datasets_baselines": "AlpacaEval 2.0; MT-Bench; FLASK; single models",
+    "reported_improvement": "65.1% length-controlled win rate vs GPT-4o 57.5%",
+    "limitations": "Additional model calls; judge wins not objective task completion",
+    "code": "https://github.com/togethercomputer/moa"
+  },
+  {
+    "key": "costofpass",
+    "identifier": "2504.13359",
+    "category": "economics",
+    "url": "https://arxiv.org/abs/2504.13359",
+    "method": "Cost divided by success probability and efficient frontier",
+    "models_datasets_baselines": "GSM8K; GPQA; MATH500; AIME24; model and voting baselines",
+    "reported_improvement": "Extra inference can fail cost-of-pass despite improved accuracy",
+    "limitations": "Random guessing can game ratio; enforce minimum quality",
+    "code": "https://github.com/mhamzaerol/Cost-of-Pass"
+  },
+  {
+    "key": "preble",
+    "identifier": "2407.00023",
+    "category": "scheduling",
+    "url": "https://arxiv.org/abs/2407.00023",
+    "method": "Prefix locality and load-aware replica placement",
+    "models_datasets_baselines": "Mistral-7B; Llama-3-70B; distributed vLLM/SGLang",
+    "reported_improvement": "1.5-14.5x mean latency improvement reported",
+    "limitations": "Replica scheduling not heterogeneous quality routing",
+    "code": "https://github.com/WukLab/preble"
+  },
+  {
+    "key": "llmbridge",
+    "identifier": "2410.11857",
+    "category": "routing",
+    "url": "https://arxiv.org/abs/2410.11857",
+    "method": "Proxy combines routing context selection and caching",
+    "models_datasets_baselines": "244 queries from 10 conversations; component baselines",
+    "reported_improvement": "40% model-selection cost reduction; 30-50% context savings",
+    "limitations": "Component microbenchmarks do not establish joint optimality",
+    "code": "not verified"
+  },
+  {
+    "key": "tweakllm",
+    "identifier": "2507.23674",
+    "category": "routing",
+    "url": "https://arxiv.org/abs/2507.23674",
+    "method": "Small model tailors cached response; large model handles miss",
+    "models_datasets_baselines": "Quora; WildChat; LMSYS; semantic-cache/direct models",
+    "reported_improvement": "WildChat estimated cost 61% of baseline at threshold .8",
+    "limitations": "Assumes 25x price ratio; estimated not measured whole-task bills",
+    "code": "https://github.com/kvcache842/tweak-llm"
+  },
+  {
+    "key": "groundedcache",
+    "identifier": "2605.27494",
+    "category": "semantic cache",
+    "url": "https://arxiv.org/abs/2605.27494",
+    "method": "Gate cache hits on evidence and document versions",
+    "models_datasets_baselines": "HotpotQA; mtRAG; synthetic drift; Qwen2.5-7B",
+    "reported_improvement": "mtRAG drift unsafe-served rate 51.5% to 1.5%; hits 56.5% to 2%",
+    "limitations": "Low unsafe rate partly comes from suppressing reuse; inconsistencies noted",
+    "code": "not verified"
+  },
+  {
+    "key": "cacheroute",
+    "identifier": "2608.19677",
+    "category": "scheduling",
+    "url": "https://arxiv.org/abs/2608.19677",
+    "method": "Plan stable prefix-affinity assignments with load limits",
+    "models_datasets_baselines": "Llama3.3-70B fp8; 60 H100; Preble",
+    "reported_improvement": "176 vs 76 QPS under 3.5s p99 SLO in main setting",
+    "limitations": "Some 32B workloads erase gains; replica placement not semantic routing",
+    "code": "not verified"
+  },
+  {
+    "key": "yearserving",
+    "identifier": "2608.13573",
+    "category": "scheduling",
+    "url": "https://arxiv.org/abs/2608.13573",
+    "method": "Longitudinal trace analysis and cache routing simulation",
+    "models_datasets_baselines": "6.12B requests; 9174 models; April 2025-April 2026",
+    "reported_improvement": "Model mix and lengths change; simulated cache-first load imbalance 5-7%",
+    "limitations": "Single provider; no task-success labels; trace release not verified",
+    "code": "not verified"
+  },
+  {
+    "key": "agserve",
+    "identifier": "doi:10.52202/085713-0097",
+    "category": "routing",
+    "url": "https://papers.neurips.cc/paper_files/paper/2025/hash/04132e28265a355456f86a1c3fec3bcd-Abstract-Conference.html",
+    "title": "Transcending Cost-Quality Tradeoff in Agent Serving via Session-Awareness",
+    "authors": "Yanyu Ren; Li Chen; Dan Li; Xizheng Wang; Zhiyuan Wu; Yukai Miao; Yu Bai",
+    "status": "NeurIPS 2025; peer-reviewed",
+    "method": "Session-aware KV reuse; model cascades and retries; resource allocation",
+    "models_datasets_baselines": "AgentBench agents; vLLM+; Cascade; RouteLLM",
+    "reported_improvement": "ALFWorld 16.5% GPT-4o cost; quality 90 vs 94 in Appendix Table 8",
+    "limitations": "Already combines caches/cascades; cost not normalized by task success; failed invalid actions excluded from latency",
+    "code": "https://github.com/robinren03/agserve"
+  }
+]

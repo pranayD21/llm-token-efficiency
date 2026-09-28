@@ -1,0 +1,478 @@
+[
+  {
+    "url": "https://aclanthology.org/2023.emnlp-main.825/",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://aclanthology.org/2024.findings-acl.57/",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2211.17192",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2305.02301",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2305.05176",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2307.03172",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2309.06180",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2310.04408",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2403.02310",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2403.02694",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2403.12031",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2405.16444",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2406.04692",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2406.18665",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2407.00023",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2408.03314",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2410.02506",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2410.05864",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2410.10347",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2410.11857",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2501.12948",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2501.19393",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2502.18482",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2502.18600",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2503.01840",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2504.13359",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2505.11274",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2507.23674",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2508.07675",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2510.00615",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2602.10004",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.27494",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.04281",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.01718",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.13573",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.16801",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.19677",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.24188",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/html/2403.02310v1",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/html/2403.12031v2",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/html/2502.18600v1",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/html/2503.01840v1",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/html/2505.11274v6",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://arxiv.org/html/2510.00615v1",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://consensus.app/home/api/",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://curl.se/",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://developers.openai.com/api/docs/guides/prompt-caching",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://docs.openalex.org/",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://github.com/LMCache/LMCache",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://github.com/lm-sys/RouteLLM",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://github.com/openai/tiktoken",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://github.com/openai/tiktoken/blob/main/LICENSE",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://github.com/py-pdf/pypdf",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://github.com/vllm-project/vllm",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://github.com/withmartian/routerbench",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://help.consensus.app/en/articles/11954907-consensus-product-changelog",
+    "status": "403",
+    "transport_exit": 0,
+    "content_blocked": true,
+    "verified_access": false
+  },
+  {
+    "url": "https://help.consensus.app/en/articles/16516328-the-consensus-api",
+    "status": "403",
+    "transport_exit": 0,
+    "content_blocked": true,
+    "verified_access": false
+  },
+  {
+    "url": "https://papers.neurips.cc/paper_files/paper/2025/hash/04132e28265a355456f86a1c3fec3bcd-Abstract-Conference.html",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://papers.nips.cc/paper_files/paper/2025/file/04132e28265a355456f86a1c3fec3bcd-Paper-Conference.pdf",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://pip.pypa.io/",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://proceedings.mlr.press/v202/leviathan23a.html",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://pypi.org/project/pypdf/6.0.0/",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://wolfram.com/artificial-intelligence/mcp/cloud/wolfram-mcp-cloud/",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://www.crossref.org/documentation/retrieve-metadata/rest-api/",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://www.python.org/",
+    "status": "200",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": true
+  },
+  {
+    "url": "https://www.scispace.com/help/en/articles/10706821-how-scispace-search-works",
+    "status": "403",
+    "transport_exit": 0,
+    "content_blocked": false,
+    "verified_access": false
+  }
+]

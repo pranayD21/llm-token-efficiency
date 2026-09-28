@@ -1,0 +1,42 @@
+[
+  {
+    "encoding": "cl100k_base",
+    "text": "Return only the invoice ID: INV-0017.",
+    "tokens": 11
+  },
+  {
+    "encoding": "cl100k_base",
+    "text": "{\"customer_id\":17,\"status\":\"approved\"}",
+    "tokens": 10
+  },
+  {
+    "encoding": "cl100k_base",
+    "text": "ग्राहक का चालान क्रमांक लौटाएं।",
+    "tokens": 31
+  },
+  {
+    "encoding": "cl100k_base",
+    "text": "请仅返回发票编号。",
+    "tokens": 8
+  },
+  {
+    "encoding": "o200k_base",
+    "text": "Return only the invoice ID: INV-0017.",
+    "tokens": 11
+  },
+  {
+    "encoding": "o200k_base",
+    "text": "{\"customer_id\":17,\"status\":\"approved\"}",
+    "tokens": 10
+  },
+  {
+    "encoding": "o200k_base",
+    "text": "ग्राहक का चालान क्रमांक लौटाएं।",
+    "tokens": 11
+  },
+  {
+    "encoding": "o200k_base",
+    "text": "请仅返回发票编号。",
+    "tokens": 7
+  }
+]

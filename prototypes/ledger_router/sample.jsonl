@@ -1,0 +1,12 @@
+{"id": "stationary-0", "tenant": "A", "version": 1, "amount": 100, "limit": 500, "blocked": true, "wording": "normal", "time": 0, "scenario": "stationary"}
+{"id": "stationary-1", "tenant": "A", "version": 1, "amount": 111, "limit": 500, "blocked": false, "wording": "normal", "time": 1, "scenario": "stationary"}
+{"id": "stationary-2", "tenant": "A", "version": 1, "amount": 122, "limit": 500, "blocked": false, "wording": "normal", "time": 2, "scenario": "stationary"}
+{"id": "stationary-3", "tenant": "A", "version": 1, "amount": 133, "limit": 500, "blocked": false, "wording": "normal", "time": 3, "scenario": "stationary"}
+{"id": "stationary-4", "tenant": "A", "version": 1, "amount": 144, "limit": 500, "blocked": false, "wording": "normal", "time": 4, "scenario": "stationary"}
+{"id": "stationary-5", "tenant": "A", "version": 1, "amount": 155, "limit": 500, "blocked": false, "wording": "normal", "time": 5, "scenario": "stationary"}
+{"id": "stationary-6", "tenant": "A", "version": 1, "amount": 166, "limit": 500, "blocked": false, "wording": "normal", "time": 6, "scenario": "stationary"}
+{"id": "stationary-7", "tenant": "A", "version": 1, "amount": 177, "limit": 500, "blocked": false, "wording": "normal", "time": 7, "scenario": "stationary"}
+{"id": "stationary-8", "tenant": "A", "version": 1, "amount": 188, "limit": 500, "blocked": false, "wording": "normal", "time": 8, "scenario": "stationary"}
+{"id": "stationary-9", "tenant": "A", "version": 1, "amount": 199, "limit": 500, "blocked": true, "wording": "normal", "time": 9, "scenario": "stationary"}
+{"id": "stationary-10", "tenant": "A", "version": 1, "amount": 210, "limit": 500, "blocked": false, "wording": "normal", "time": 10, "scenario": "stationary"}
+{"id": "stationary-11", "tenant": "A", "version": 1, "amount": 221, "limit": 500, "blocked": false, "wording": "normal", "time": 11, "scenario": "stationary"}

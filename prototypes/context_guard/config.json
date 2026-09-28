@@ -1,0 +1,9 @@
+{
+  "budget": 1100,
+  "budget_sweep": [180, 450, 1100, 2400, 8000],
+  "small_budget": 100,
+  "compact_fraction": 0.65,
+  "output_reserve": 96,
+  "cache": {"minimum": 128, "block": 64, "ttl": 3},
+  "rates": {"input": 2.0, "output": 8.0, "cache_read": 0.2}
+}

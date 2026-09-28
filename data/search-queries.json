@@ -1,0 +1,32 @@
+{
+  "date": "2026-09-06",
+  "tool": "built-in web search",
+  "note": "Executed discovery queries; targeted title/identifier opens in literature dataset. Search-ranking snapshots not fully exported.",
+  "queries": [
+    "FrugalGPT RouteLLM RouterBench arxiv",
+    "LLM routing cache aware routing cascade cost successful task 2025 2026",
+    "LLM routing workload distribution drift caching fallback cost cascade",
+    "site.arxiv.org \"routing\" \"caching\" LLM cost",
+    "site.arxiv.org \"routing\" \"non-stationary\"",
+    "site.arxiv.org \"Cascade Routing\"",
+    "site.arxiv.org MixLLM dynamic routing",
+    "site.arxiv.org \"cost per\" \"successful\" agents",
+    "LLM joint model routing semantic caching fallback optimization paper arxiv",
+    "LLM cache aware model routing cost successful task paper 2026",
+    "\"AGSERVE\" \"cascading\"",
+    "\"Helium\" \"LLM\" \"cache-aware\"",
+    "site.aclanthology.org LLMLingua-2 prompt compression data distillation",
+    "site.arxiv.org semantic caching LLM correctness privacy 2025 2026",
+    "site.arxiv.org agent context memory compression 2026 2025",
+    "site.arxiv.org ACON context compression agents",
+    "site.arxiv.org RECOMP retrieval compression",
+    "site.arxiv.org SGLang RadixAttention CacheBlend LMCache",
+    "site.arxiv.org 2026 efficient reasoning early stopping uncertainty token budget",
+    "site.arxiv.org 2025 token budget forcing thinking optimal length reasoning",
+    "site.arxiv.org 2026 multi agent token efficiency overhead",
+    "site.arxiv.org tokenization efficiency language models tokens vocabulary inference",
+    "site.developers.openai.com API pricing cached tokens batch processing",
+    "site.platform.claude.com docs pricing prompt cache 5 minute 1 hour",
+    "site.ai.google.dev gemini-api docs pricing context caching storage"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "python": "3.14.7 (v3.14.7:823f0323ee6, Aug  5 2026, 07:07:01) [Clang 21.0.0 (clang-2100.1.1.101)]",
+  "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+  "curl": "curl 8.7.1 (x86_64-apple-darwin25.0) libcurl/8.7.1 (SecureTransport) LibreSSL/3.3.6 zlib/1.2.12 nghttp2/1.68.1",
+  "packages": [
+    "certifi==2026.7.22",
+    "charset-normalizer==3.5.1",
+    "idna==3.19",
+    "pypdf==6.0.0",
+    "regex==2026.9.3",
+    "requests==2.34.2",
+    "tiktoken==0.14.0",
+    "urllib3==2.7.0"
+  ]
+}
